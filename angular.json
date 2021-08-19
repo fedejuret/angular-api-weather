@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "clima-app"
+    }
+  },
+  "defaultProject": "clima-app",
+  "cli": {
+    "analytics": false
+  }
 }
